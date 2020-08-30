@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="rubensojunior's Github Stats" src="https://github-readme-stats.rubensojunior.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="rubensojunior's Github Stats" src="https://github-readme-stats.rubensojunior.vercel.app/api?username=rubensojunior&show_icons=true&hide_border=true" />
 
 </details>
 
