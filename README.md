@@ -6,9 +6,6 @@
 - 🥅 2020 Goals: Create my youtube channel and work with Javascript
 - ⚡ Fun fact: I love to play guitar
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rubensojunior Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="rubensojunior | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
