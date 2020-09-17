@@ -1,4 +1,4 @@
-## Hi there, i'm Rubens Junior and i'm Full-Stack developer!
+## Hi there, i'm Rubens Junior and i'm Full Stack developer!
 
 - 🔭 I’m currently working on create my youtube channel and JS programming!
 - 🌱 I’m currently learning more about JS World
