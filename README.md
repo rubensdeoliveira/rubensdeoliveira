@@ -44,5 +44,4 @@
 <img align="left" alt="rubensojunior's Github Stats" src="https://github-readme-stats.rubensojunior.vercel.app/api?username=rubensojunior&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/rubensojunior6
-[instagram]: https://instagram.com/rubensojunior6
-[linkedin]: https://www.linkedin.com/in/rubensojunior6/
+[linkedin]: https://www.linkedin.com/in/rubensojunior6
