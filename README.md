@@ -1,6 +1,6 @@
 ## Hi there, my name is Rubens Junior and i'm Full Stack developer!
 
-- 🔭 I’m currently working on create my youtube channel and JS/TS programming!
+- 🔭 I’m current working in a software solution to clinics
 - 👯 I’m looking to collaborate with other people and companies to build solutions
 - 🥅 2021 Goals: Create my youtube channel and teach Typescript
 - ⚡ Fun fact: I love to play guitar
