@@ -3,7 +3,7 @@
 - 🔭 I’m current working in a software solution to clinics
 - 👯 I’m looking to collaborate with other people and companies to build solutions
 - 🥅 2021 Goals: Create my youtube channel and teach Typescript
-- ⚡ Fun fact: I love to play guitar
+- ⚡ Fun fact: I play guitar and love nerd culture
 
 ### Connect with me:
 
