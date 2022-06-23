@@ -31,7 +31,7 @@
 <img align="left" alt="MongoDB" width="26px" src="http://www.propus.com.br/wp-content/uploads/2016/08/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="AWS" width="26px" src="https://img2.gratispng.com/20180830/prk/kisspng-logo-clip-art-font-brand-line-aws-direct-connect-by-phoenixnap-5b884f25297cc7.34621023153565981317.jpg" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
 
 
 <br />
