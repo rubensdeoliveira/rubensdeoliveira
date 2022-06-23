@@ -29,7 +29,7 @@
 <img align="left" alt="SQL" width="26px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MongoDB" width="26px" src="http://www.propus.com.br/wp-content/uploads/2016/08/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img2.gratispng.com/20180512/gle/kisspng-github-pages-logo-computer-icons-5af70e19834367.5091665315261404415377.jpg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="AWS" width="26px" src="https://img2.gratispng.com/20180830/prk/kisspng-logo-clip-art-font-brand-line-aws-direct-connect-by-phoenixnap-5b884f25297cc7.34621023153565981317.jpg" />
 
