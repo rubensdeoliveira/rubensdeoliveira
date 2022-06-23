@@ -1,6 +1,6 @@
 ## Hi there, my name is Rubens Junior and i'm Full Stack developer!
 
-- 🔭 I’m current working as a Full Stack developer at [Let's Code](letscode.com.br)
+- 🔭 I’m current working as a Full Stack developer at [Let's Code](http://letscode.com.br)
 - 👯 I’m looking to collaborate with other people and companies to build solutions
 - 🥅 2022 Goals: Create my youtube channel and teach Typescript
 - ⚡ Fun fact: I play guitar and i love nerd things
