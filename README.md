@@ -2,7 +2,7 @@
 
 - 🔭 I’m current working as a Full Stack developer at [Ada](http://ada.tech)
 - 👯 I’m looking to collaborate with other people and companies to build solutions
-- 🥅 2022 Goals: Create my youtube channel and teach Typescript
+- 🥅 2023 Goals: Create my youtube channel and teach Typescript
 - ⚡ Fun fact: I play guitar and i love nerd things
 
 ### Connect with me:
